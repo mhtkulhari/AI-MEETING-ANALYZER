@@ -2,7 +2,7 @@
 
 ## Description
 
-convalysis-ai is an AI powered tool which can be used to analyze conversations between people. It supports any type of transcriptable conversation. Currently, convalysis can be used to summarize conversations, analyse speaker emotions and find out agreement / disagreement between speakers in a conversation. It has been implemented in the form of a backend API, which takes in the transcription of a conversation as input.
+It is an AI powered tool which can be used to analyze conversations between people. It supports any type of transcriptable conversation. Currently, convalysis can be used to summarize conversations, analyse speaker emotions and find out agreement / disagreement between speakers in a conversation. It has been implemented in the form of a backend API, which takes in the transcription of a conversation as input.
 
 ## Features
 
