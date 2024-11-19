@@ -33,4 +33,4 @@ fastapi run ./app/main.py
 
 ## Further Information
 
-convalysis-ai was created as an implementation of the work done in the Minor Project in my 6th semester. Please refer to the project report for further information regarding the dataset used to train the model and the algorithm used to calculate agreement scores.
+AI-MEETING-ANALYZER was created as an implementation of the work done in the Minor Project in my 7th semester. Please refer to the project report for further information regarding the dataset used to train the model and the algorithm used to calculate agreement scores.
