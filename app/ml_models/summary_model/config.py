@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-DEFAULT_MODEL_NAME = 'gemini-1.0-pro'
+DEFAULT_MODEL_NAME = 'gemini-1.5-flash'
 
 GEMINI_API_KEY = os.environ.get('GEMINI_API_KEY')
 
